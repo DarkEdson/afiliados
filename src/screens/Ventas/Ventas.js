@@ -23,7 +23,7 @@ const Ventas = () => {
 const [fechaFinFormat, setfechaFinFormat] = useState(null)
 	const [listadoProductos, setlistadoProductos] = useState([
 		{
-			urlImagen:"https://cementeriosdelmar.com/wp-content/uploads/2021/07/Capillas-Sen%CC%83oriales-cementerio-en-el-mar.jpg",
+			urlImagen:"https://www.nauticalnewstoday.com/wp-content/uploads/2017/09/perlas-naturales.jpg",
 			titulo:"Perla Magistral 1",
 			descripcion:"Perla, cemento, cremacion, traslado, hundimiento..",
 			precio:"12.50",
@@ -31,7 +31,7 @@ const [fechaFinFormat, setfechaFinFormat] = useState(null)
 			cantidad: 15
 		},
 		{
-			urlImagen:"https://cementeriosdelmar.com/wp-content/uploads/2021/07/Capillas-Sen%CC%83oriales-cementerio-en-el-mar.jpg",
+			urlImagen:"https://www.nauticalnewstoday.com/wp-content/uploads/2017/09/perlas-naturales.jpg",
 			titulo:"Perla Magistral 2",
 			descripcion:"Perla, cemento, cremacion, traslado, hundimiento..",
 			precio:"12.50",
@@ -39,7 +39,7 @@ const [fechaFinFormat, setfechaFinFormat] = useState(null)
 			cantidad: 1
 		},
 		{
-			urlImagen:"https://cementeriosdelmar.com/wp-content/uploads/2021/07/Capillas-Sen%CC%83oriales-cementerio-en-el-mar.jpg",
+			urlImagen:"https://www.nauticalnewstoday.com/wp-content/uploads/2017/09/perlas-naturales.jpg",
 			titulo:"Perla Magistral 3",
 			descripcion:"Perla, cemento, cremacion, traslado, hundimiento..",
 			precio:"12.50",
@@ -47,7 +47,7 @@ const [fechaFinFormat, setfechaFinFormat] = useState(null)
 			cantidad: 8
 		},
 		{
-			urlImagen:"https://cementeriosdelmar.com/wp-content/uploads/2021/07/Capillas-Sen%CC%83oriales-cementerio-en-el-mar.jpg",
+			urlImagen:"https://www.nauticalnewstoday.com/wp-content/uploads/2017/09/perlas-naturales.jpg",
 			titulo:"Perla Magistral 4",
 			descripcion:"Perla, cemento, cremacion, traslado, hundimiento..",
 			precio:"12.50",
@@ -55,7 +55,7 @@ const [fechaFinFormat, setfechaFinFormat] = useState(null)
 			cantidad: 7
 		},
 		{
-			urlImagen:"https://cementeriosdelmar.com/wp-content/uploads/2021/07/Capillas-Sen%CC%83oriales-cementerio-en-el-mar.jpg",
+			urlImagen:"https://www.nauticalnewstoday.com/wp-content/uploads/2017/09/perlas-naturales.jpg",
 			titulo:"Perla Magistral",
 			descripcion:"Perla, cemento, cremacion, traslado, hundimiento..",
 			precio:"12.50",
